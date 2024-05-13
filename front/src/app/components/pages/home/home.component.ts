@@ -36,7 +36,7 @@ export class HomeComponent implements OnInit {
       this.allMoments = data;
       this.moments = data;
 
-      console.log(this.allMoments);
+      // console.log(this.allMoments);
     });
   }
 
